@@ -1,0 +1,6 @@
+c:\users\dragana\source\repos\PrviZadatak\PrviZadatak\bin\Debug\PrviZadatak.dll
+c:\users\dragana\source\repos\PrviZadatak\PrviZadatak\bin\Debug\PrviZadatak.pdb
+c:\users\dragana\source\repos\PrviZadatak\PrviZadatak\obj\Debug\PrviZadatak.csproj.CoreCompileInputs.cache
+c:\users\dragana\source\repos\PrviZadatak\PrviZadatak\obj\Debug\PrviZadatak.dll
+c:\users\dragana\source\repos\PrviZadatak\PrviZadatak\obj\Debug\PrviZadatak.pdb
+c:\users\dragana\source\repos\PrviZadatak\PrviZadatak\obj\Debug\PrviZadatak.csprojResolveAssemblyReference.cache

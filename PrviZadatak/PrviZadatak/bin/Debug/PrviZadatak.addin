@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>PrviZadatak.dll</Assembly>
+    <ClientId>53376b43-cef1-47da-8cc7-d436e016a507</ClientId>
+    <FullClassName>PrviZadatak.Class1</FullClassName>
+    <Text>Class1</Text>
+    <Description>""</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
